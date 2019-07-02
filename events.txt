@@ -1,0 +1,3 @@
+Date;Event
+07/07/2019;Beach
+15/07/2019;Friend's Birthday
