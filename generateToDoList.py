@@ -21,12 +21,12 @@ def daterange(start_date, end_date):
 # Put your own paths here
 # parentFolder is the folder where the excel is
 # backupFolder is a place to copy importqant files (On my PC it is a one drive folder!)
-parentFolder = 'C:\\Users\\seidi\\Documents\\(mapped) Important\\tutorial\\'
-backupFolder = 'C:\\Users\\seidi\\Documents\\(mapped) Important\\tutorial\\backup\\'
+parentFolder = ''
+backupFolder = ''
 
 # api and token found on https://trello.com/app-key. Copy and paste yours here
-api_key    = 'e4ecded33d49181cf84f00dbdb4323d9'
-api_secret = '5d23692536f273b4101351bc4d38aa11c32623bfcb5503c1130150f90abde721'
+api_key    = ''
+api_secret = ''
 boardName  = 'TUTORIAL'
 
 # =============================================================================
