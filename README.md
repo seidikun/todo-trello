@@ -6,6 +6,7 @@ It is composed of the following:
 - A python code generateToDoTrelloList.py that translates changes from the excel file to trello and the other way around
 
 Additionally, user should have a Trello account
+
 A tutorial to use the trello API is on the folowing colab notebook: https://colab.research.google.com/drive/1nv2stIf4KCQi1uo6zD-pVxn94y8OAuNl
 
 ## To Do (brainstorming):
